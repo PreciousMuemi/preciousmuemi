@@ -11,6 +11,8 @@ I’m always exploring new technologies and love challenging myself with excitin
 
 ### 📈 GitHub Stats:
 
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=PreciousMuemi&theme=aura_dark&hide_border=false)
+
 ![PreciousMuemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreciousMuemi&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousMuemi&layout=compact&theme=radical)
