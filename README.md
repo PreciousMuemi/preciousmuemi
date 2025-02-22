@@ -1,22 +1,28 @@
-# Hi there, I'm Precious Muemi 👋
+# **Hi there, I'm Precious Muemi 👋**  
 
-Welcome to my GitHub profile! I'm a **Data Analyst**, **Blockchain Developer**, and **Mobile Developer**, currently diving deeper into the fascinating world of **Machine Learning**, **Artificial Intelligence**, and **Cybersecurity** concepts.
+🚀 **Blockchain Full-Stack Developer | Smart Contract Engineer | Web3 Security Enthusiast**  
 
-### 🌱 What I'm currently learning:
-- **React Native** for mobile development
-- **Node.js** for backend web development
+I’m currently working on my backend skills with **Node.js and Express.js**.  
+👯 I’m looking to collaborate on any **frontend project in both Web2 and Web3**.  
+💬 Ask me about **Web & Web3 Development and anything blockchain-related**.  
+⚡ **No risk, no story—let’s go!**  
 
-### 🚀 My Passion:
-I’m always exploring new technologies and love challenging myself with exciting projects that involve data analysis, blockchain, and AI-driven solutions. My work is driven by curiosity and a desire to innovate.
+## **What I Do**  
+🔗 **Blockchain Development** – Smart contracts on **Ethereum, Starknet, ICP, Somnia, Hedera, Base, and Bitcoin**.  
+🔒 **Smart Contract Security** – Focused on **gas optimization and security best practices**.  
+💻 **Web Development** – Frontend with **React, Tailwind, Firebase, and Material UI**.  
+🎤 **Community & Mentorship** – Leading **workshops and mentoring in GDG, ICP, and blockchain bootcamps**.  
 
-### 📈 GitHub Stats:
+## **My Passion**  
+I’m always exploring new technologies and love challenging myself with exciting projects in **data analysis, blockchain, and AI-driven solutions**.  
+My work is driven by **curiosity and a desire to innovate**.  
 
-![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=PreciousMuemi&theme=aura_dark&hide_border=false)
+## 📊 **GitHub Stats**  
 
-![PreciousMuemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreciousMuemi&show_icons=true&theme=radical)
+![GitHub Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=PreciousMuemi&theme=aura_dark&hide_border=false)  
+![PreciousMuemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PreciousMuemi&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousMuemi&layout=compact&theme=radical)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PreciousMuemi&layout=compact&theme=radical)
-
-### 🔗 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/your-link)  
-- [Twitter](https://twitter.com/your-handle)
+## 🔗 **Let's Connect**  
+- **[LinkedIn](https://www.linkedin.com/in/your-link)**  
+- **[Twitter](https://twitter.com/your-handle)**  
